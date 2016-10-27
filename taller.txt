@@ -1,1 +1,2 @@
-Hola estamos en taller de git
+Hola amigos, estamos en taller de git.
+Hola mundo cruel :D
